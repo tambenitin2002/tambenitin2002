@@ -2,6 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate **Software Engineer** with experience in full-stack development and software engineering. My focus is on building scalable and high-performance applications using a variety of modern technologies.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=About.me)]([https://your-portfolio-link.com](https://tambenitin2002.github.io/Nitin-Tambe/))
 ---
 
 ## 🛠 Skills
@@ -72,6 +73,7 @@ Here are some of my key projects:
 
 ## 💼 Connect with me!
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=About.me)]([https://your-portfolio-link.com](https://tambenitin2002.github.io/Nitin-Tambe/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nitin-tambe/) 
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:tambenitin2002@gmail.com)
 
